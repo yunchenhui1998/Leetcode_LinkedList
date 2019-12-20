@@ -1,4 +1,4 @@
-package com.xupt.practice.ReverseLinkedList;
+package com.xupt.practice.TypicalProblem;
 /*
 反转链表
 反转一个单链表。
